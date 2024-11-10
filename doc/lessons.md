@@ -1,3 +1,8 @@
+# windows wsl setup
+resource:
+``
+https://www.cnblogs.com/luoyingfenfei/p/17831138.html
+``
 # git study
 ## create account
 ## clone repository
@@ -7,7 +12,6 @@
 
 # vscode study
 ## vscode develop enviroment setup
-## windows wsl setup
 ## vscode plugins setup
 ``
     git extension pack
