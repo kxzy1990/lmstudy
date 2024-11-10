@@ -8,6 +8,12 @@
 # vscode study
 ## vscode develop enviroment setup
 ## windows wsl setup
+## vscode plugins setup
+``
+    git extension pack
+    python
+    jupyter
+``
 ## python enviroment setup
 ## manim install
 ## manim study
